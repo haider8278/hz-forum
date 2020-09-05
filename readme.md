@@ -9,4 +9,4 @@ License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
-
+This plugin allows users to build forum topics and post replies. 
